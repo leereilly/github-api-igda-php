@@ -8,8 +8,8 @@ See [example.php](https://github.com/leereilly/github-api-igda-php/blob/master/e
 
 ![](https://img.skitch.com/20120718-mj4mc6jtu5j7xd9styu79w9i33.png)
 
-* API call is:
-`curl https://api.github.com/repos/falconhoof/Game-Jam-2012-Client/downloads`
+* API call to:
+`https://api.github.com/repos/falconhoof/Game-Jam-2012-Client/downloads`
 
 * Gives you the following
 
