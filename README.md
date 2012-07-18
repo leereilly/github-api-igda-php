@@ -11,7 +11,7 @@ See [example.php](https://github.com/leereilly/github-api-igda-php/blob/master/e
 * API call to:
 `https://api.github.com/repos/falconhoof/Game-Jam-2012-Client/downloads`
 
-* Gives you the following
+* Gives you the following:
 
 ```javascript
 [
