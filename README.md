@@ -2,9 +2,9 @@
 
 **Intended audience:** IGDA's GGJ organizers.
 
-Uses the [falconhoof/Game-Jam-2012-Client](https://github.com/falconhoof/Game-Jam-2012-Client) as an example.
+Uses the [falconhoof/Game-Jam-2012-Client](https://github.com/falconhoof/Game-Jam-2012-Client) repository as an example.
 
-See `example.php` for the actual code.
+See [example.php](https://github.com/leereilly/github-api-igda-php/blob/master/example.php) for the actual code.
 
 ![](https://img.skitch.com/20120718-mj4mc6jtu5j7xd9styu79w9i33.png)
 
